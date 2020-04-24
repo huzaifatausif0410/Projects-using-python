@@ -1,3 +1,3 @@
-# hufaiza
+#projects
 
-Data Science-Capstone_Project
+Capstone_Projects
